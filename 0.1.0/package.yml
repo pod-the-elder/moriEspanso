@@ -1,0 +1,6 @@
+name: moriEspanso
+parent: default
+
+matches:
+  - trigger: ":usq"
+    replace: "University of Southern Queensland"

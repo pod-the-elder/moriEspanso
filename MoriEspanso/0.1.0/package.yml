@@ -4,3 +4,14 @@ parent: default
 matches:
   - trigger: ":usq"
     replace: "University of Southern Queensland"
+  - trigger: ":unisig"
+    replace: |
+              Thanks,
+
+              Mitch Drake
+              Digital Learning Technician
+              Office for the Advancement of Learning and Teaching (OALT) | Y265
+              T: +61 7 4631 2018
+              E: Mitch.Drake@usq.edu.au
+              University of Southern Queensland | Toowoomba
+              Queensland | 4350 | Australia

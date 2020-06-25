@@ -15,11 +15,5 @@ matches:
               E: Mitch.Drake@usq.edu.au
               University of Southern Queensland | Toowoomba
               Queensland | 4350 | Australia
-  - trigger: ":gimmememe"
-    replace: "{{output}}"
-    vars:
-      - name: output
-        type: random
-        params:
-          choices:
-            - image_path: "MoriEspanso/Images/itsDeadJim.jpg"
+  - trigger: ":newcontact?"
+    replace: "I'm not sure if you're the right person to contact for this, but $|$. If this isn't your domain, or someone else would be better suited to help, please let me know. \nThanks so much for your time," 
